@@ -1,7 +1,7 @@
 import React from "react";
 import drinkGuide1 from '../drinkGuide1.jpg';
 import drinkGuide2 from '../drinkGuide2.jpg';
-import drinkGuide3 from '../drinkGuide3.jpg';
+
 import { Link } from "react-router-dom";
 import { AiOutlineFileDone } from "react-icons/ai";
 
@@ -17,7 +17,7 @@ const Menu6 = () => {
             <div className="pageTop"><AiOutlineFileDone size={"10%"} />{menu6}</div>
             <div><img src={drinkGuide1} style={{width: "100%", marginTop:"2vh"}}/></div>
             <div><img src={drinkGuide2} style={{width: "100%"}}/></div>
-            <div><img src={drinkGuide3} style={{width: "100%"}}/></div>
+            
         </div>
     )
 }
