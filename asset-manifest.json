@@ -1,8 +1,11 @@
 {
   "files": {
     "main.css": "/chujindan2024/static/css/main.19aeb43f.css",
-    "main.js": "/chujindan2024/static/js/main.a3bd99fa.js",
+    "main.js": "/chujindan2024/static/js/main.551e3bc8.js",
     "static/media/ROKG_R.ttf": "/chujindan2024/static/media/ROKG_R.b9efd85180365a5904d1.ttf",
+    "static/media/drinkGuide1.jpg": "/chujindan2024/static/media/drinkGuide1.490dbd7e0ddd74199eac.jpg",
+    "static/media/selfIntro.jpg": "/chujindan2024/static/media/selfIntro.6612fd8eb8e1330a0454.jpg",
+    "static/media/drinkGuide2.jpg": "/chujindan2024/static/media/drinkGuide2.8ff6b6ac2546df34e561.jpg",
     "static/media/026.png": "/chujindan2024/static/media/026.ce90f4aa5ba2a88501e3.png",
     "static/media/017.png": "/chujindan2024/static/media/017.aca98e90448956e1bb87.png",
     "static/media/001.png": "/chujindan2024/static/media/001.d6c09aa7b25897f35ece.png",
@@ -33,18 +36,14 @@
     "static/media/029.png": "/chujindan2024/static/media/029.f330b20578c633a1893b.png",
     "static/media/006.png": "/chujindan2024/static/media/006.4f6aa4edd52e3f38fd99.png",
     "static/media/timetable.jpg": "/chujindan2024/static/media/timetable.cf59e7ec8ae0232d92bf.jpg",
-    "static/media/selfIntro.jpg": "/chujindan2024/static/media/selfIntro.3614221a0d1cc05ab6b2.jpg",
     "static/media/002.png": "/chujindan2024/static/media/002.561a05e1e638adaaeff9.png",
-    "static/media/drinkGuide2.jpg": "/chujindan2024/static/media/drinkGuide2.10f82f082f476d062180.jpg",
-    "static/media/drinkGuide1.jpg": "/chujindan2024/static/media/drinkGuide1.0cd1d6f7fce359920def.jpg",
-    "static/media/drinkGuide3.jpg": "/chujindan2024/static/media/drinkGuide3.585e74bd21aa79c47e8f.jpg",
     "static/media/logo.png": "/chujindan2024/static/media/logo.915fb1be8dc5a85d79e2.png",
     "index.html": "/chujindan2024/index.html",
     "main.19aeb43f.css.map": "/chujindan2024/static/css/main.19aeb43f.css.map",
-    "main.a3bd99fa.js.map": "/chujindan2024/static/js/main.a3bd99fa.js.map"
+    "main.551e3bc8.js.map": "/chujindan2024/static/js/main.551e3bc8.js.map"
   },
   "entrypoints": [
     "static/css/main.19aeb43f.css",
-    "static/js/main.a3bd99fa.js"
+    "static/js/main.551e3bc8.js"
   ]
 }
