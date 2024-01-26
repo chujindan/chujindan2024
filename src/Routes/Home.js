@@ -7,13 +7,13 @@ import { AiOutlineAppstore, AiOutlineTeam, AiOutlineQuestionCircle, AiOutlineCom
 const Home = () => {
 
     const menu1 = "총정모\n프로그램";
-    const menu2 = "총정모\n추진단원";
+    const menu2 = "테이블\n자리표";
     const menu3 = "총정모\n오픈채팅방";
     const menu4 = "선배님께\n묻습니다";
     const menu5 = "선배님과의\n대화\n-부록-";
     const menu6 = "뒤풀이\n가이드";
 
-    const seatText = "테이블 자리표";
+    const seatText = "총정모 추진단원";
     const surveyText = "총정모 만족도 조사";
 
     const openkatalkLink = "https://open.kakao.com/o/gRyHiq1e";
@@ -32,7 +32,7 @@ const Home = () => {
                 <ul id="menuContents">
                     <div className="contentsRow">
                         <Link to="/programs" className="content"><AiOutlineAppstore size={"50%"} />{menu1}</Link>
-                        <Link to="/chujindanMembers" className="content"><AiOutlineTeam size={"50%"} />{menu2}</Link>
+                        <Link to="/whereIsMySeat" className="content"><AiOutlineTeam size={"50%"} />{menu2}</Link>
                     </div>
                     <div className="contentsRow">
                         <div className="content"> 
@@ -52,7 +52,7 @@ const Home = () => {
                         <Link to="/guide" className="content"><AiOutlineFileDone size={"50%"} />{menu6}</Link>
                     </div>
                     <div className="contentsRow">
-                        <Link to="/whereIsMySeat" className="content3">{seatText}</Link>
+                        <Link to="/chujindanMembers" className="content3">{seatText}</Link>
                         <a href={surveyLink} className="content3" target="_blank" >{surveyText}</a>
                     </div>
                 </ul>

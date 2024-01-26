@@ -16,7 +16,7 @@ function App() {
             <div style={{marginRight:"10px"}}>단장 홍윤석 📱010-8472-7249</div>
             <div>부단장 안성우 📱010-7655-9128</div> 
           </div>
-          <div>홈페이지 관리자 OOO</div>
+          <div>홈페이지 관리자 전재영, 우승연</div>
         </footer>
       </div>
     </>
