@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chujindan2024/static/css/main.19aeb43f.css",
-    "main.js": "/chujindan2024/static/js/main.551e3bc8.js",
+    "main.css": "/chujindan2024/static/css/main.968ccdf3.css",
+    "main.js": "/chujindan2024/static/js/main.52beb919.js",
     "static/media/ROKG_R.ttf": "/chujindan2024/static/media/ROKG_R.b9efd85180365a5904d1.ttf",
     "static/media/drinkGuide1.jpg": "/chujindan2024/static/media/drinkGuide1.490dbd7e0ddd74199eac.jpg",
     "static/media/selfIntro.jpg": "/chujindan2024/static/media/selfIntro.6612fd8eb8e1330a0454.jpg",
@@ -39,11 +39,11 @@
     "static/media/002.png": "/chujindan2024/static/media/002.561a05e1e638adaaeff9.png",
     "static/media/logo.png": "/chujindan2024/static/media/logo.915fb1be8dc5a85d79e2.png",
     "index.html": "/chujindan2024/index.html",
-    "main.19aeb43f.css.map": "/chujindan2024/static/css/main.19aeb43f.css.map",
-    "main.551e3bc8.js.map": "/chujindan2024/static/js/main.551e3bc8.js.map"
+    "main.968ccdf3.css.map": "/chujindan2024/static/css/main.968ccdf3.css.map",
+    "main.52beb919.js.map": "/chujindan2024/static/js/main.52beb919.js.map"
   },
   "entrypoints": [
-    "static/css/main.19aeb43f.css",
-    "static/js/main.551e3bc8.js"
+    "static/css/main.968ccdf3.css",
+    "static/js/main.52beb919.js"
   ]
 }
