@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/chujindan2024/static/css/main.968ccdf3.css",
-    "main.js": "/chujindan2024/static/js/main.52beb919.js",
-    "static/media/ROKG_R.ttf": "/chujindan2024/static/media/ROKG_R.b9efd85180365a5904d1.ttf",
+    "main.css": "/chujindan2024/static/css/main.c1df0834.css",
+    "main.js": "/chujindan2024/static/js/main.f3b1ae0f.js",
+    "static/media/EliceDigitalBaeum_Regular.ttf": "/chujindan2024/static/media/EliceDigitalBaeum_Regular.7d6ca1689a138e53fc8a.ttf",
     "static/media/drinkGuide1.jpg": "/chujindan2024/static/media/drinkGuide1.490dbd7e0ddd74199eac.jpg",
     "static/media/selfIntro.jpg": "/chujindan2024/static/media/selfIntro.6612fd8eb8e1330a0454.jpg",
     "static/media/drinkGuide2.jpg": "/chujindan2024/static/media/drinkGuide2.8ff6b6ac2546df34e561.jpg",
     "static/media/026.png": "/chujindan2024/static/media/026.ce90f4aa5ba2a88501e3.png",
     "static/media/017.png": "/chujindan2024/static/media/017.aca98e90448956e1bb87.png",
+    "static/media/timetable.jpg": "/chujindan2024/static/media/timetable.4675083a4c3e0f9bd5ea.jpg",
     "static/media/001.png": "/chujindan2024/static/media/001.d6c09aa7b25897f35ece.png",
     "static/media/025.png": "/chujindan2024/static/media/025.024118e1e9cb27eda4c6.png",
     "static/media/027.png": "/chujindan2024/static/media/027.01bf82d27f08839123d4.png",
@@ -35,15 +36,14 @@
     "static/media/005.png": "/chujindan2024/static/media/005.b07a81ea4e12777c80be.png",
     "static/media/029.png": "/chujindan2024/static/media/029.f330b20578c633a1893b.png",
     "static/media/006.png": "/chujindan2024/static/media/006.4f6aa4edd52e3f38fd99.png",
-    "static/media/timetable.jpg": "/chujindan2024/static/media/timetable.cf59e7ec8ae0232d92bf.jpg",
     "static/media/002.png": "/chujindan2024/static/media/002.561a05e1e638adaaeff9.png",
     "static/media/logo.png": "/chujindan2024/static/media/logo.915fb1be8dc5a85d79e2.png",
     "index.html": "/chujindan2024/index.html",
-    "main.968ccdf3.css.map": "/chujindan2024/static/css/main.968ccdf3.css.map",
-    "main.52beb919.js.map": "/chujindan2024/static/js/main.52beb919.js.map"
+    "main.c1df0834.css.map": "/chujindan2024/static/css/main.c1df0834.css.map",
+    "main.f3b1ae0f.js.map": "/chujindan2024/static/js/main.f3b1ae0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.968ccdf3.css",
-    "static/js/main.52beb919.js"
+    "static/css/main.c1df0834.css",
+    "static/js/main.f3b1ae0f.js"
   ]
 }
