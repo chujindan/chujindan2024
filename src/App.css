@@ -1,6 +1,6 @@
 @font-face {
   font-family: "krfont";         
-  src: url("./font/ROKG_R.ttf");
+  src: url("./font/EliceDigitalBaeum_Regular.ttf");
 }
 
 .App {
@@ -14,7 +14,7 @@
   justify-content: center;
   font-size: calc(4vmin);
   color: white;
-  font-family: 'Malgun Gothic', sans-serif;
+  font-family: 'krfont', 'Malgun Gothic', sans-serif;
 }
 
 #main { 
