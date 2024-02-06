@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/chujindan2024/static/css/main.c1df0834.css",
-    "main.js": "/chujindan2024/static/js/main.f3b1ae0f.js",
+    "main.js": "/chujindan2024/static/js/main.3d9fa546.js",
     "static/media/EliceDigitalBaeum_Regular.ttf": "/chujindan2024/static/media/EliceDigitalBaeum_Regular.7d6ca1689a138e53fc8a.ttf",
-    "static/media/drinkGuide1.jpg": "/chujindan2024/static/media/drinkGuide1.490dbd7e0ddd74199eac.jpg",
-    "static/media/selfIntro.jpg": "/chujindan2024/static/media/selfIntro.6612fd8eb8e1330a0454.jpg",
-    "static/media/drinkGuide2.jpg": "/chujindan2024/static/media/drinkGuide2.8ff6b6ac2546df34e561.jpg",
+    "static/media/drinkGuide1.jpg": "/chujindan2024/static/media/drinkGuide1.e8e66b267942a5ef8ba0.jpg",
+    "static/media/drinkGuide2.jpg": "/chujindan2024/static/media/drinkGuide2.c13c4cf8535f1dc11b9a.jpg",
+    "static/media/selfIntro.jpg": "/chujindan2024/static/media/selfIntro.6853cc6aab12522377e8.jpg",
     "static/media/026.png": "/chujindan2024/static/media/026.ce90f4aa5ba2a88501e3.png",
     "static/media/017.png": "/chujindan2024/static/media/017.aca98e90448956e1bb87.png",
     "static/media/timetable.jpg": "/chujindan2024/static/media/timetable.4675083a4c3e0f9bd5ea.jpg",
@@ -40,10 +40,10 @@
     "static/media/logo.png": "/chujindan2024/static/media/logo.915fb1be8dc5a85d79e2.png",
     "index.html": "/chujindan2024/index.html",
     "main.c1df0834.css.map": "/chujindan2024/static/css/main.c1df0834.css.map",
-    "main.f3b1ae0f.js.map": "/chujindan2024/static/js/main.f3b1ae0f.js.map"
+    "main.3d9fa546.js.map": "/chujindan2024/static/js/main.3d9fa546.js.map"
   },
   "entrypoints": [
     "static/css/main.c1df0834.css",
-    "static/js/main.f3b1ae0f.js"
+    "static/js/main.3d9fa546.js"
   ]
 }
