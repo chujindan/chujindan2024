@@ -18,7 +18,7 @@ const Home = () => {
 
     const openkatalkLink = "https://open.kakao.com/o/gJPUJs7f";
     const questionLink = "https://docs.google.com/forms/d/e/1FAIpQLSexVuPjIxPiWLS5nVyu5GrHnUsj3sDAMWiV5ylicPYvrbxETA/viewform";
-    const surveyLink = "https://docs.google.com/forms/d/e/1FAIpQLScFHOxV87wKDAeEC1rbZHI35j9kKsXp79MshrNWuKB01aS5Ew/viewform"
+    const surveyLink = "https://docs.google.com/forms/d/e/1FAIpQLSebbJ5LLDjltM3N2mRO_B6CSPfr-JxvVHv3XVKZG0vc7pbtmw/viewform"
     
     return (
         <div id="main">
