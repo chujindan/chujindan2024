@@ -23,7 +23,6 @@ const talk4 = () => {
                 <div style={{textDecoration:"none", color:"gray", marginLeft:"2vw", marginRight:"2vw"}}> 4 </div>
                 <Link to="/talk5" style={{textDecoration:"none", color:"white", marginLeft:"2vw", marginRight:"2vw"}}> 5 </Link>
                 <Link to="/talk6" style={{textDecoration:"none", color:"white", marginLeft:"2vw", marginRight:"2vw"}}> 6 </Link>
-                <Link to="/talk7" style={{textDecoration:"none", color:"white", marginLeft:"2vw", marginRight:"2vw"}}> 7 </Link>
             </div>
         </div>
     )
