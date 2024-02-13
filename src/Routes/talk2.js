@@ -1,8 +1,8 @@
 import React from "react";
-import p3 from '../pdf/003.png';
-import p4 from '../pdf/004.png';
-import p5 from '../pdf/005.png';
-import p6 from '../pdf/006.png';
+import p3 from '../pdf/003.jpg';
+import p4 from '../pdf/004.jpg';
+import p5 from '../pdf/005.jpg';
+import p6 from '../pdf/006.jpg';
 
 import { Link } from "react-router-dom";
 

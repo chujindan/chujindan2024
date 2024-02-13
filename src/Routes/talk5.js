@@ -1,9 +1,8 @@
 import React from "react";
-import p17 from '../pdf/017.png';
-import p18 from '../pdf/018.png';
-import p19 from '../pdf/019.png';
-import p20 from '../pdf/020.png';
-import p21 from '../pdf/021.png';
+import p13 from '../pdf/013.jpg';
+import p14 from '../pdf/014.jpg';
+import p15 from '../pdf/015.jpg';
+
 
 
 import { Link } from "react-router-dom";
@@ -15,11 +14,9 @@ const talk5 = () => {
             <div className="pageBack">
                 <Link to="/" style={{textDecoration:"none", color:"white"}}> 돌아가기 </Link>
             </div>
-            <div><img src={p17} style={{width: "100%", marginTop:"2vh"}}/></div>
-            <div><img src={p18} style={{width: "100%"}}/></div>
-            <div><img src={p19} style={{width: "100%"}}/></div>
-            <div><img src={p20} style={{width: "100%"}}/></div>
-            <div><img src={p21} style={{width: "100%"}}/></div>
+            <div><img src={p13} style={{width: "100%", marginTop:"2vh"}}/></div>
+            <div><img src={p14} style={{width: "100%"}}/></div>
+            <div><img src={p15} style={{width: "100%"}}/></div>
             <div style={{display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "center"}}>
                 <Link to="/talk" style={{textDecoration:"none", color:"white", marginLeft:"2vw", marginRight:"2vw"}}> 1 </Link>
                 <Link to="/talk2" style={{textDecoration:"none", color:"white", marginLeft:"2vw", marginRight:"2vw"}}> 2 </Link>

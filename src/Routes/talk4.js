@@ -1,7 +1,7 @@
 import React from "react";
-import p14 from '../pdf/014.png';
-import p15 from '../pdf/015.png';
-import p16 from '../pdf/016.png';
+import p10 from '../pdf/010.jpg';
+import p11 from '../pdf/011.jpg';
+import p12 from '../pdf/012.jpg';
 
 
 import { Link } from "react-router-dom";
@@ -13,9 +13,9 @@ const talk4 = () => {
             <div className="pageBack">
                 <Link to="/" style={{textDecoration:"none", color:"white"}}> 돌아가기 </Link>
             </div>
-            <div><img src={p14} style={{width: "100%", marginTop:"2vh"}}/></div>
-            <div><img src={p15} style={{width: "100%"}}/></div>
-            <div><img src={p16} style={{width: "100%"}}/></div>
+            <div><img src={p10} style={{width: "100%", marginTop:"2vh"}}/></div>
+            <div><img src={p11} style={{width: "100%"}}/></div>
+            <div><img src={p12} style={{width: "100%"}}/></div>
             <div style={{display: "flex", flexDirection: "row", alignItems: "center", justifyContent: "center"}}>
                 <Link to="/talk" style={{textDecoration:"none", color:"white", marginLeft:"2vw", marginRight:"2vw"}}> 1 </Link>
                 <Link to="/talk2" style={{textDecoration:"none", color:"white", marginLeft:"2vw", marginRight:"2vw"}}> 2 </Link>

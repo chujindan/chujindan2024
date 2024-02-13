@@ -1,6 +1,6 @@
 import React from "react";
-import p1 from '../pdf/001.png';
-import p2 from '../pdf/002.png';
+import p1 from '../pdf/001.jpg';
+import p2 from '../pdf/002.jpg';
 
 import { Link } from "react-router-dom";
 import { AiOutlineComment } from "react-icons/ai";
