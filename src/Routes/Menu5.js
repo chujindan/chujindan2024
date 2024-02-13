@@ -1,7 +1,6 @@
 import React from "react";
 import p1 from '../pdf/001.jpg';
 import p2 from '../pdf/002.jpg';
-
 import { Link } from "react-router-dom";
 import { AiOutlineComment } from "react-icons/ai";
 
@@ -9,6 +8,7 @@ import { AiOutlineComment } from "react-icons/ai";
 const Menu5 = () => {
 
     const menu5 = "선배님과의\n대화\n-부록-";
+    
 
     return (
         <div style={{marginBottom:"auto", paddingBottom:'1vh', display:"flex", flexDirection:"column"}}>
